@@ -1,8 +1,8 @@
     OVERVIEW  
-The gym database is a relational databasethat is designed to manage information related to employees, customers and gym equipment,
+The gym database is a relational database that is designed to manage information related to employees, customers and gym equipment,
 it also allows us to store information about the types and plans of memberships including the status payment of the specific customers membership.
 The database takes care of keeping the track of the training sessions with each trainer and possibly multiple customers including the time of the session
-as well as the time of the check in and check out of the customer.Additionally it tells us about what equipment,
+as well as the time of the check in and check out of the customer. Additionally it tells us about what equipment,
 and when was bought for the specific facility and which trainers are giving training sessions at that facility.
 It is written in PL/SQL as well as T-SQL dialects in their dedicated folders with diffrent triggers and prcoedures that could have
 a real use in a real life database. In addition there is provided a png(created in vertabelo) file with a visualization of the database and relations
